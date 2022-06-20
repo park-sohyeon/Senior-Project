@@ -13,7 +13,6 @@ def mapToGrid(lat, lon, code = 0 ):
     PI = math.asin(1.0) * 2.0
     DEGRAD = PI/ 180.0
 
-
     re = Re / grid
     slat1 = slat1 * DEGRAD
     slat2 = slat2 * DEGRAD

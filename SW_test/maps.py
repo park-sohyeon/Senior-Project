@@ -1,6 +1,5 @@
 import socket
 import requests
-
 import nxny
 
 def ip_to_xy():
